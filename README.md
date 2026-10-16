@@ -113,5 +113,6 @@
 - [quant-investing](https://github.com/weihong0505/quant-investing) —— 判定线冻结、去偏夏普、PIT 审计的实操
 - [ai-audiovisual-perception](https://github.com/weihong0505/ai-audiovisual-perception) —— 对抗性审查找出 3 个 load-bearing 缺陷并 TDD 修复的完整记录
 - [compliance-gated-content-pipeline](https://github.com/weihong0505/compliance-gated-content-pipeline) —— 「让模型在结构上无法下裁决」的架构实践
+- [quant-investing · 单向取材型材料的识别](https://github.com/weihong0505/quant-investing/blob/main/wiki/concepts/risk-management/one-sided-sourcing.md) —— 本文档库之外最值得一读的一篇：**每个数字都真实，但只引支持结论的那一半**；实测 47 条断言仅 40% 可原样引用。**先问「被删了什么」，再问「数字对不对」**
 
 <sub>魏毅鸿 · Yihong Wei ｜ 2026-10</sub>
